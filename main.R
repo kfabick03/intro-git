@@ -2,3 +2,4 @@ library(lattice)
 
 getwd()
 
+ls()
